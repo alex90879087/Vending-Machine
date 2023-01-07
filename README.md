@@ -1,12 +1,4 @@
-# Agile Software Development Practices (SOFT2412/COMP9412)
-CC_08_Thu_08_ Sudeshna_Group-1
-- School of Computer Science
-- Group Project Assignment 2 – Agile Software Development with Scrum and Agile Tools
----------------------------------------------------------
-- Work: Group assignment (4-5 students)
-- Weight: 25%
-- Due: Multiple deadlines (see submission requirements below)
-- Deliverables: Multiple technical reports, source code submissions, and project demonstrations (detailed below)
+
 ---------------------------------------------------------
 ***TO RUN THE PROGRAM***
 > gradle run
