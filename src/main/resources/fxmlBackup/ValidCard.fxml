@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Accordion?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="saveCard" prefHeight="850.0" prefWidth="550.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="App">
+   <children>
+      <Accordion layoutX="108.0" layoutY="359.0" />
+       <ButtonBar layoutX="336.0" layoutY="728.0" prefHeight="40.0" prefWidth="200.0">
+           <buttons>
+<!--               <Button mnemonicParsing="false" onMouseClicked="#testing" text="testing" />-->
+               <!--          <Button mnemonicParsing="false" onMouseClicked="#cash" text="Testing" />-->
+           </buttons>
+       </ButtonBar>
+      <Text layoutX="108.0" layoutY="430.0" strokeType="OUTSIDE" strokeWidth="0.0" text="&gt; System Message :  Transaction Succesful :)" wrappingWidth="310.421875" />
+      <Text layoutX="108.0" layoutY="459.0" strokeType="OUTSIDE" strokeWidth="0.0" text="&gt; Login Users can choose to save credit card details for future payments :)" />
+<!--      <Button layoutX="191.0" layoutY="714.0" mnemonicParsing="false" onMouseClicked="#cash" prefHeight="46.0" prefWidth="116.0" text="OK" />-->
+   </children>
+</AnchorPane>

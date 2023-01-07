@@ -1,0 +1,108 @@
+{
+  "snacks": {
+    "drinks": [
+      {
+        "name": "Mineral Water",
+        "price": 1.80,
+        "quantity": 7,
+        "code": "392039"
+      },
+      {
+        "name": "Sprite",
+        "price": 5.00,
+        "quantity": 7,
+        "code": "392039"
+      },
+      {
+        "name": "Coca cola",
+        "price": 2.80,
+        "quantity": 7,
+        "code": "392039"
+      },
+      {
+        "name": "Pepsi",
+        "price": 1.80,
+        "quantity": 7,
+        "code": "392039"
+      },
+      {
+        "name": "Juice",
+        "price": 1.80,
+        "quantity": 7,
+        "code": "392039"
+      }
+    ],
+    "chocolates": [
+      {
+        "name": "Mars",
+        "price": 1.80,
+        "quantity": 7,
+        "code": "392039"
+      },
+      {
+        "name": "M&M",
+        "price": 1.80,
+        "quantity": 7,
+        "code": "392039"
+      },
+      {
+        "name": "Bounty",
+        "price": 1.80,
+        "quantity": 7,
+        "code": "392039"
+      },
+      {
+        "name": "Snickers",
+        "price": 1.80,
+        "quantity": 7,
+        "code": "392039"
+      }
+    ],
+    "chips": [
+      {
+        "name": "Smiths",
+        "price": 1.80,
+        "quantity": 7,
+        "code": "392039"
+      },
+      {
+        "name": "Pringles",
+        "price": 1.80,
+        "quantity": 7,
+        "code": "392039"
+      },
+      {
+        "name": "Kettle",
+        "price": 1.80,
+        "quantity": 7,
+        "code": "392039"
+      },
+      {
+        "name": "Thins",
+        "price": 1.80,
+        "quantity": 7,
+        "code": "392039"
+      }
+    ],
+    "lollies": [
+      {
+        "name": "Mentos",
+        "price": 1.80,
+        "quantity": 7,
+        "code": "392039"
+      },
+      {
+        "name": "Sour Patch",
+        "price": 1.80,
+        "quantity": 7,
+        "code": "392039"
+      },
+      {
+        "name": "Skittles",
+        "price": 1.80,
+        "quantity": 7,
+        "code": "392039"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "users": {
+    "customer": [
+      {
+        "name": "ken",
+        "password": "ken"
+      },
+      {
+        "name": "alex",
+        "password": "alex"
+      }
+    ],
+    "seller": [
+      {
+        "name": "seller1",
+        "password": "seller1"
+      },
+      {
+        "name": "seller2",
+        "password": "seller2"
+      }
+    ],
+    "cashier": [
+      {
+        "name": "cashier",
+        "password": "cashier"
+      }
+    ],
+    "owner": [
+      {
+        "name": "owner",
+        "password": "owner"
+      }
+    ]
+  }
+}

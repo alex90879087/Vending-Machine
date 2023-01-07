@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="850.0" prefWidth="550.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="App">
+   <children>
+      <ButtonBar layoutX="336.0" layoutY="728.0" prefHeight="40.0" prefWidth="200.0">
+        <buttons>
+          <Button mnemonicParsing="false" onMouseClicked="#ExitFromTransaction" text="Main Menu" />
+<!--          <Button mnemonicParsing="false" onMouseClicked="#cash" text="Testing" />-->
+        </buttons>
+      </ButtonBar>
+<!--      <Button layoutX="191.0" layoutY="714.0" mnemonicParsing="false" onMouseClicked="#cash" prefHeight="46.0" prefWidth="116.0" text="OK" />-->
+   </children>
+</AnchorPane>
